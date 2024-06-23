@@ -1,0 +1,35 @@
+/* style.css */
+
+/* Cor da fonte do título */
+h1 {
+    color: purple;
+}
+
+/* Cor da fonte do texto */
+p {
+    color: purple;
+}
+
+/* Cor da fonte dos botões */
+button {
+    color: purple;
+}
+
+/* Cor da fonte dos inputs de texto */
+input[type="text"] {
+    color: purple;
+    border-color: purple; /* Cor da borda */
+    background-color: #f5f5f5; /* Cor de fundo */
+}
+
+/* Cor da fonte dos inputs de senha */
+input[type="password"] {
+    color: purple;
+    border-color: purple; /* Cor da borda */
+    background-color: #f5f5f5; /* Cor de fundo */
+}
+
+/* Cor da fonte dos links */
+a {
+    color: purple;
+}
